@@ -1,0 +1,25 @@
+_repo: Oysters-and-Fish_53521
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murrey, Thomas J. (Thomas Jefferson)
+    alias: Murrey, Thomas Jefferson
+    gutenberg_agent_id: '26313'
+    url: http://www.gutenberg.org/2009/agents/26313
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53521'
+  lccn: 07027862
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking (Fish)'
+- !lcc 'TX'
+- !lcsh 'Cooking (Oysters)'
+- GITenberg
+title: Oysters and Fish
+url: http://www.gutenberg.org/ebooks/53521
