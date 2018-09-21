@@ -1,5 +1,8 @@
 _repo: Oysters-and-Fish_53521
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53521-h/images/cover.jpg
 creator:
   author:
     agent_name: Murrey, Thomas J. (Thomas Jefferson)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '26313'
     url: http://www.gutenberg.org/2009/agents/26313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53521#Oysters-and-Fish
 gutenberg_issued: '2016-11-13'
 gutenberg_type: Text
 identifiers:
